@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-03T02:47:54.959612+00:00",
-  "count": 456,
+  "updatedAt": "2026-09-03T11:48:27.428631+00:00",
+  "count": 459,
   "errors": [],
   "series": [
     {
@@ -592,6 +592,12 @@
       "group": "Build on Google AI"
     },
     {
+      "id": "9486",
+      "title": "30 天打造生產級 AI 自動化短影片生成系統",
+      "url": "https://ithelp.ithome.com.tw/users/20183976/ironman/9486",
+      "group": "Build on Google AI"
+    },
+    {
       "id": "9439",
       "title": "30 天用 Google ADK 打造你的「全自動 AI 虛擬團隊」",
       "url": "https://ithelp.ithome.com.tw/users/20121643/ironman/9439",
@@ -727,6 +733,12 @@
       "id": "9479",
       "title": "液態玻璃美學：結合 Gemini 與 Antigravity IDE，打造 120FPS、多視窗比例與網格順延推擠佈局的強大商務運算終端",
       "url": "https://ithelp.ithome.com.tw/users/20183974/ironman/9479",
+      "group": "Build on Google AI"
+    },
+    {
+      "id": "9484",
+      "title": "用 Google AI 從零打造 Network Stack：30 天實作封包、TCP 與 HTTP Server",
+      "url": "https://ithelp.ithome.com.tw/users/20183627/ironman/9484",
       "group": "Build on Google AI"
     },
     {
@@ -2251,6 +2263,12 @@
       "id": "9471",
       "title": "用 Vibe Coding 打造 AI 資安最後一哩",
       "url": "https://ithelp.ithome.com.tw/users/20183966/ironman/9471",
+      "group": "Vibe Coding"
+    },
+    {
+      "id": "9485",
+      "title": "當全世界都在吹 AI Coding，誰來測這坨髒東西",
+      "url": "https://ithelp.ithome.com.tw/users/20183902/ironman/9485",
       "group": "Vibe Coding"
     },
     {
