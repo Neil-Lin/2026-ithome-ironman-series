@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-04T11:49:36.978309+00:00",
-  "count": 480,
+  "updatedAt": "2026-09-05T10:59:04.841578+00:00",
+  "count": 486,
   "errors": [],
   "series": [
     {
@@ -928,6 +928,12 @@
       "group": "Claude AI"
     },
     {
+      "id": "9511",
+      "title": "AI 說「看起來不錯」不算數：一套可被證偽的 code review 驗收標準",
+      "url": "https://ithelp.ithome.com.tw/users/20183983/ironman/9511",
+      "group": "Claude AI"
+    },
+    {
       "id": "9127",
       "title": "AI工具革命 - 使用AI工作流打造簡報生成平台",
       "url": "https://ithelp.ithome.com.tw/users/20130011/ironman/9127",
@@ -1069,6 +1075,12 @@
       "id": "9250",
       "title": "用 Claude 帶我 Bring Up AI 開發板：30 天人機協作實錄",
       "url": "https://ithelp.ithome.com.tw/users/20118900/ironman/9250",
+      "group": "Claude AI"
+    },
+    {
+      "id": "9509",
+      "title": "當 AI Agent 走進風機現場：Claude × MCP × 工業維運的 30 天",
+      "url": "https://ithelp.ithome.com.tw/users/20184012/ironman/9509",
       "group": "Claude AI"
     },
     {
@@ -1322,6 +1334,12 @@
       "title": "解決學了JavaScript不知道能做什麼：用DOM操作打造實用網頁效果",
       "url": "https://ithelp.ithome.com.tw/users/20183853/ironman/9377",
       "group": "JavaScript"
+    },
+    {
+      "id": "9512",
+      "title": "30 天打造我的個人雲端實驗室：用 Docker、Kubernetes、Flyte 和自建服務，重構手機與電腦的日常工作流",
+      "url": "https://ithelp.ithome.com.tw/users/20175987/ironman/9512",
+      "group": "Kubernetes"
     },
     {
       "id": "9050",
@@ -2140,6 +2158,12 @@
       "group": "Software Development"
     },
     {
+      "id": "9508",
+      "title": "我的 SDD 實驗之路 - 從實際使用現有工具，到設計自己的流程",
+      "url": "https://ithelp.ithome.com.tw/users/20161663/ironman/9508",
+      "group": "Software Development"
+    },
+    {
       "id": "9275",
       "title": "我的第一個手作りAndroid App！快樂學習物件導向程式設計！",
       "url": "https://ithelp.ithome.com.tw/users/20141615/ironman/9275",
@@ -2371,6 +2395,12 @@
       "id": "9471",
       "title": "用 Vibe Coding 打造 AI 資安最後一哩",
       "url": "https://ithelp.ithome.com.tw/users/20183966/ironman/9471",
+      "group": "Vibe Coding"
+    },
+    {
+      "id": "9510",
+      "title": "當全世界都在吹 AI Coding 誰來測這坨髒東西",
+      "url": "https://ithelp.ithome.com.tw/users/20183902/ironman/9510",
       "group": "Vibe Coding"
     },
     {
@@ -2737,6 +2767,12 @@
       "id": "9028",
       "title": "UX 的那些事",
       "url": "https://ithelp.ithome.com.tw/users/20177695/ironman/9028",
+      "group": "自我挑戰組"
+    },
+    {
+      "id": "9513",
+      "title": "Vibe 30: 我的聽說讀寫英文助手",
+      "url": "https://ithelp.ithome.com.tw/users/20129237/ironman/9513",
       "group": "自我挑戰組"
     },
     {
