@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05T10:59:04.841578+00:00",
-  "count": 486,
+  "updatedAt": "2026-09-06T11:24:41.866467+00:00",
+  "count": 497,
   "errors": [],
   "series": [
     {
@@ -238,6 +238,12 @@
       "group": "AI Engineering"
     },
     {
+      "id": "9518",
+      "title": "你的 AI Demo 為什麼不能上線？從 Prompt 到 Production 的 AI Engineering",
+      "url": "https://ithelp.ithome.com.tw/users/20184033/ironman/9518",
+      "group": "AI Engineering"
+    },
+    {
       "id": "9459",
       "title": "個人知識庫、第二大腦，都用不好？我讓 AI 當維護者，自己只負責讀、想、問",
       "url": "https://ithelp.ithome.com.tw/users/20160279/ironman/9459",
@@ -466,6 +472,12 @@
       "group": "AI 自動化"
     },
     {
+      "id": "9519",
+      "title": "30 天解雇我自己：用 AI 自動化掉每天的重複工作",
+      "url": "https://ithelp.ithome.com.tw/users/20184034/ironman/9519",
+      "group": "AI 自動化"
+    },
+    {
       "id": "9282",
       "title": "30天，利用 n8n Agents 打造一位 AI 同事",
       "url": "https://ithelp.ithome.com.tw/users/20178730/ironman/9282",
@@ -589,6 +601,12 @@
       "id": "9099",
       "title": "讓 Claude 學會看圖:30 天打造 LLM 驅動的機器視覺工作站(MCP × OpenCV × Terminal Plugin)》",
       "url": "https://ithelp.ithome.com.tw/users/20109732/ironman/9099",
+      "group": "AI 自動化"
+    },
+    {
+      "id": "9522",
+      "title": "醫院裡的 AI 品管員：30 天，把品質管理交給 AI 試試看",
+      "url": "https://ithelp.ithome.com.tw/users/20183824/ironman/9522",
       "group": "AI 自動化"
     },
     {
@@ -874,6 +892,12 @@
       "group": "ChatGPT & Codex"
     },
     {
+      "id": "9517",
+      "title": "把 GitHub 專案交給 Codex：AI 到底能不能成為真正的軟體工程師？",
+      "url": "https://ithelp.ithome.com.tw/users/20184032/ironman/9517",
+      "group": "ChatGPT & Codex"
+    },
+    {
       "id": "9108",
       "title": "挑戰 30 天把 ChatGPT 與 Codex 放進軟體開發流程",
       "url": "https://ithelp.ithome.com.tw/users/20168431/ironman/9108",
@@ -914,6 +938,12 @@
       "title": "鼠勾以：用Custom GPT grill 出一份全熟PRD",
       "url": "https://ithelp.ithome.com.tw/users/20181011/ironman/9298",
       "group": "ChatGPT & Codex"
+    },
+    {
+      "id": "9524",
+      "title": "30 天帶 Claude 上工：從聊天助手到工程協作夥伴",
+      "url": "https://ithelp.ithome.com.tw/users/20183995/ironman/9524",
+      "group": "Claude AI"
     },
     {
       "id": "9209",
@@ -1129,6 +1159,12 @@
       "id": "9054",
       "title": "AI 時代下，如何建立真正可持續的軟體交付能力",
       "url": "https://ithelp.ithome.com.tw/users/20072027/ironman/9054",
+      "group": "IT Operation"
+    },
+    {
+      "id": "9516",
+      "title": "AI 輔助開發下，測試如何保住品質防線",
+      "url": "https://ithelp.ithome.com.tw/users/20065818/ironman/9516",
       "group": "IT Operation"
     },
     {
@@ -1591,6 +1627,12 @@
       "id": "9478",
       "title": "AI 時代攻擊圖鑑：30 天看懂 Web、LLM 與 Agent 的新型資安風險",
       "url": "https://ithelp.ithome.com.tw/users/20183975/ironman/9478",
+      "group": "Security"
+    },
+    {
+      "id": "9523",
+      "title": "AI 這麼聰明，為什麼還會被騙？30 天搞懂 AI 資安",
+      "url": "https://ithelp.ithome.com.tw/users/20166287/ironman/9523",
       "group": "Security"
     },
     {
@@ -2578,6 +2620,12 @@
       "group": "佛心分享-IT 人自學之術"
     },
     {
+      "id": "9514",
+      "title": "狼人自爆的心路歷程：一個「AI人」的30天自學修煉",
+      "url": "https://ithelp.ithome.com.tw/users/20183684/ironman/9514",
+      "group": "佛心分享-IT 人自學之術"
+    },
+    {
       "id": "9291",
       "title": "給小白導讀線上教學影片跟作品--◍寫出好維護的程式碼",
       "url": "https://ithelp.ithome.com.tw/users/20183570/ironman/9291",
@@ -2716,6 +2764,12 @@
       "group": "自我挑戰組"
     },
     {
+      "id": "9520",
+      "title": "AI 時代下的好奇心練習：從社會、生命、文化到科技，用 30 天重新認識這個世界",
+      "url": "https://ithelp.ithome.com.tw/users/20129163/ironman/9520",
+      "group": "自我挑戰組"
+    },
+    {
       "id": "9454",
       "title": "AI菜鳥30天持續更新挑戰",
       "url": "https://ithelp.ithome.com.tw/users/20183941/ironman/9454",
@@ -2806,6 +2860,12 @@
       "group": "自我挑戰組"
     },
     {
+      "id": "9515",
+      "title": "台北女子，東京在住——AI 時代的海外工作與生活觀察",
+      "url": "https://ithelp.ithome.com.tw/users/20120822/ironman/9515",
+      "group": "自我挑戰組"
+    },
+    {
       "id": "9039",
       "title": "和AI學習gcp - 建立對話代理",
       "url": "https://ithelp.ithome.com.tw/users/20154359/ironman/9039",
@@ -2893,6 +2953,12 @@
       "id": "9157",
       "title": "網路小白學習之路",
       "url": "https://ithelp.ithome.com.tw/users/20178363/ironman/9157",
+      "group": "自我挑戰組"
+    },
+    {
+      "id": "9521",
+      "title": "群島計畫：你複製的是結論，還是看見的能力？",
+      "url": "https://ithelp.ithome.com.tw/users/20107403/ironman/9521",
       "group": "自我挑戰組"
     },
     {
