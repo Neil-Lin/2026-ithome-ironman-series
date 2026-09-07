@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-06T11:24:41.866467+00:00",
-  "count": 497,
+  "updatedAt": "2026-09-07T13:05:52.194788+00:00",
+  "count": 505,
   "errors": [],
   "series": [
     {
@@ -106,6 +106,12 @@
       "group": "AI Engineering"
     },
     {
+      "id": "9531",
+      "title": "Agent 開發, 從本地到雲端: AI 工程師的 K8s 筆記",
+      "url": "https://ithelp.ithome.com.tw/users/20091643/ironman/9531",
+      "group": "AI Engineering"
+    },
+    {
       "id": "9083",
       "title": "Al照護小幫手：智慧健康與情緒關懷系統",
       "url": "https://ithelp.ithome.com.tw/users/20183391/ironman/9083",
@@ -115,6 +121,12 @@
       "id": "9066",
       "title": "Backend 工程師的 Azure GenAI 實戰",
       "url": "https://ithelp.ithome.com.tw/users/20168288/ironman/9066",
+      "group": "AI Engineering"
+    },
+    {
+      "id": "9529",
+      "title": "From GPU to AI Software: 不只硬體的平行運算世界",
+      "url": "https://ithelp.ithome.com.tw/users/20184053/ironman/9529",
       "group": "AI Engineering"
     },
     {
@@ -646,6 +658,12 @@
       "group": "Build on Google AI"
     },
     {
+      "id": "9528",
+      "title": "30 天用 Google AI 打造台灣防災速報 App",
+      "url": "https://ithelp.ithome.com.tw/users/20183782/ironman/9528",
+      "group": "Build on Google AI"
+    },
+    {
       "id": "9248",
       "title": "30天打造作業系統實作課",
       "url": "https://ithelp.ithome.com.tw/users/20183627/ironman/9248",
@@ -721,6 +739,12 @@
       "id": "9164",
       "title": "在工作與生活上使用Google AI",
       "url": "https://ithelp.ithome.com.tw/users/20112648/ironman/9164",
+      "group": "Build on Google AI"
+    },
+    {
+      "id": "9525",
+      "title": "在贏家書寫歷史之前：我所看見的 AI，與一位工程師共舞著",
+      "url": "https://ithelp.ithome.com.tw/users/20183607/ironman/9525",
       "group": "Build on Google AI"
     },
     {
@@ -1039,6 +1063,12 @@
       "id": "9057",
       "title": "中文系MIS的Claude協作嘗試：我們如何保存自己的思考脈絡？",
       "url": "https://ithelp.ithome.com.tw/users/20180368/ironman/9057",
+      "group": "Claude AI"
+    },
+    {
+      "id": "9530",
+      "title": "奇幻塔防開發實錄：用 Claude 打造一款有靈魂的塔防遊戲",
+      "url": "https://ithelp.ithome.com.tw/users/20117461/ironman/9530",
       "group": "Claude AI"
     },
     {
@@ -2224,6 +2254,12 @@
       "group": "Software Development"
     },
     {
+      "id": "9527",
+      "title": "拒絕 AI 垃圾產出：用工業工程防呆打醒你的 30 天 SDET 實戰",
+      "url": "https://ithelp.ithome.com.tw/users/20183902/ironman/9527",
+      "group": "Software Development"
+    },
+    {
       "id": "9247",
       "title": "收到自己的紅色炸彈！婚期就是 Deadline：前端一人用 AI 規格流水線，30 天出貨婚禮 SaaS",
       "url": "https://ithelp.ithome.com.tw/users/20171627/ironman/9247",
@@ -2638,6 +2674,12 @@
       "group": "佛心分享-IT 人自學之術"
     },
     {
+      "id": "9532",
+      "title": "菜雞學習資料結構的 30 日讀書分享",
+      "url": "https://ithelp.ithome.com.tw/users/20168290/ironman/9532",
+      "group": "佛心分享-IT 人自學之術"
+    },
+    {
       "id": "9458",
       "title": "菜雞學習資料結構的 30 日讀書分享【Day 1】",
       "url": "https://ithelp.ithome.com.tw/users/20168290/ironman/9458",
@@ -2959,6 +3001,12 @@
       "id": "9521",
       "title": "群島計畫：你複製的是結論，還是看見的能力？",
       "url": "https://ithelp.ithome.com.tw/users/20107403/ironman/9521",
+      "group": "自我挑戰組"
+    },
+    {
+      "id": "9526",
+      "title": "職場小白的 30 天修煉之路：從 Excel 基礎到 Power Query",
+      "url": "https://ithelp.ithome.com.tw/users/20162626/ironman/9526",
       "group": "自我挑戰組"
     },
     {
