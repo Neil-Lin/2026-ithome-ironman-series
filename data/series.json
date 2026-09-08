@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-07T13:05:52.194788+00:00",
-  "count": 505,
+  "updatedAt": "2026-09-08T11:50:07.596913+00:00",
+  "count": 517,
   "errors": [],
   "series": [
     {
@@ -244,6 +244,12 @@
       "group": "AI Engineering"
     },
     {
+      "id": "9542",
+      "title": "以 AI 工程打造智慧藥局：用 YOLO 與全端開發實現藥品分類與數量自動化統計",
+      "url": "https://ithelp.ithome.com.tw/users/20184071/ironman/9542",
+      "group": "AI Engineering"
+    },
+    {
       "id": "9475",
       "title": "你的 AI Demo 為什麼不能上線？從 Prompt 到 Production 的 AI Engineering",
       "url": "https://ithelp.ithome.com.tw/users/20183943/ironman/9475",
@@ -295,6 +301,12 @@
       "id": "9274",
       "title": "從 DBA 自用工具到中心四個科的自動化基礎：AI Engineering 三代開發實錄",
       "url": "https://ithelp.ithome.com.tw/users/20183576/ironman/9274",
+      "group": "AI Engineering"
+    },
+    {
+      "id": "9540",
+      "title": "從 LLM 到 AI Agent：30 天打造 vLLM × RAG × LangChain 智慧推薦系統",
+      "url": "https://ithelp.ithome.com.tw/users/20184040/ironman/9540",
       "group": "AI Engineering"
     },
     {
@@ -373,6 +385,12 @@
       "id": "9352",
       "title": "打造具備記憶與執行能力的常駐 AI Agent：Hermes Agent × Gemini × MCP 的 Harness 設計",
       "url": "https://ithelp.ithome.com.tw/users/20177919/ironman/9352",
+      "group": "AI Engineering"
+    },
+    {
+      "id": "9538",
+      "title": "拒當 API 韭菜！30 天手邊設備玩轉 AI Agent",
+      "url": "https://ithelp.ithome.com.tw/users/20129988/ironman/9538",
       "group": "AI Engineering"
     },
     {
@@ -502,6 +520,12 @@
       "group": "AI 自動化"
     },
     {
+      "id": "9539",
+      "title": "AI × Digital Twin 打造線纜工廠自我進化系統",
+      "url": "https://ithelp.ithome.com.tw/users/20178687/ironman/9539",
+      "group": "AI 自動化"
+    },
+    {
       "id": "9382",
       "title": "AI 公司模擬器：Discord x Multi-Agent 架構實作",
       "url": "https://ithelp.ithome.com.tw/users/20183880/ironman/9382",
@@ -523,6 +547,12 @@
       "id": "9078",
       "title": "Data Machi 30 天學習系列：從零開始打造企業 AI 知識工作流",
       "url": "https://ithelp.ithome.com.tw/users/20169646/ironman/9078",
+      "group": "AI 自動化"
+    },
+    {
+      "id": "9541",
+      "title": "FDE 是 AI Agent 時代的最強武器嗎？28 個企業 AI 落地的真實決策與挑戰",
+      "url": "https://ithelp.ithome.com.tw/users/20108979/ironman/9541",
       "group": "AI 自動化"
     },
     {
@@ -667,6 +697,12 @@
       "id": "9248",
       "title": "30天打造作業系統實作課",
       "url": "https://ithelp.ithome.com.tw/users/20183627/ironman/9248",
+      "group": "Build on Google AI"
+    },
+    {
+      "id": "9543",
+      "title": "40歲，我決定重新學一次理工：一個文組商業大叔的30天 Google AI 實驗",
+      "url": "https://ithelp.ithome.com.tw/users/20184072/ironman/9543",
       "group": "Build on Google AI"
     },
     {
@@ -1126,6 +1162,12 @@
       "group": "Claude AI"
     },
     {
+      "id": "9533",
+      "title": "文科生的 Claude Code 30 日實戰：從零到台股研究工作台",
+      "url": "https://ithelp.ithome.com.tw/users/20177969/ironman/9533",
+      "group": "Claude AI"
+    },
+    {
       "id": "9429",
       "title": "用 AI Agent 重構一套無框架的 legacy PHP 系統",
       "url": "https://ithelp.ithome.com.tw/users/20065818/ironman/9429",
@@ -1213,6 +1255,12 @@
       "id": "9434",
       "title": "《新手入門：網路基礎概論，釐清防火牆設備 IP / TCP / NAT / Route 架構》",
       "url": "https://ithelp.ithome.com.tw/users/20182607/ironman/9434",
+      "group": "IT Operation"
+    },
+    {
+      "id": "9544",
+      "title": "低延遲網路的維運工程：從 HFT 現場長出來的 30 天",
+      "url": "https://ithelp.ithome.com.tw/users/20184063/ironman/9544",
       "group": "IT Operation"
     },
     {
@@ -1804,6 +1852,12 @@
       "group": "Security"
     },
     {
+      "id": "9537",
+      "title": "我只是想學 Web Security，怎麼開始打網站了？",
+      "url": "https://ithelp.ithome.com.tw/users/20184064/ironman/9537",
+      "group": "Security"
+    },
+    {
       "id": "9107",
       "title": "打通天地結界：AAD 修練之旅",
       "url": "https://ithelp.ithome.com.tw/users/20177922/ironman/9107",
@@ -2059,6 +2113,12 @@
       "id": "9316",
       "title": "SyncETA 開發日記：手把手打造你的智慧出發時間推薦 PWA",
       "url": "https://ithelp.ithome.com.tw/users/20178770/ironman/9316",
+      "group": "Software Development"
+    },
+    {
+      "id": "9535",
+      "title": "SyncETA 開發日記：手把手打造你的智慧出發時間推薦 PWA",
+      "url": "https://ithelp.ithome.com.tw/users/20178770/ironman/9535",
       "group": "Software Development"
     },
     {
@@ -2854,6 +2914,12 @@
       "group": "自我挑戰組"
     },
     {
+      "id": "9536",
+      "title": "Python解題自律30日",
+      "url": "https://ithelp.ithome.com.tw/users/20057593/ironman/9536",
+      "group": "自我挑戰組"
+    },
+    {
       "id": "9034",
       "title": "SQL Server 基礎&調教",
       "url": "https://ithelp.ithome.com.tw/users/20118581/ironman/9034",
@@ -2953,6 +3019,12 @@
       "id": "9229",
       "title": "我想知道AI能幫到什麼忙",
       "url": "https://ithelp.ithome.com.tw/users/20183600/ironman/9229",
+      "group": "自我挑戰組"
+    },
+    {
+      "id": "9534",
+      "title": "拯救混亂數據：30 天 Python 輕量級 ETL 與電商關聯資料分析",
+      "url": "https://ithelp.ithome.com.tw/users/20136155/ironman/9534",
       "group": "自我挑戰組"
     },
     {
