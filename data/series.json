@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-10T11:54:59.450622+00:00",
-  "count": 561,
+  "updatedAt": "2026-09-11T11:53:52.810741+00:00",
+  "count": 588,
   "errors": [],
   "series": [
     {
@@ -13,6 +13,12 @@
       "id": "9491",
       "title": "30 天 AI eval 實戰：一隻 PM agent，改完之後怎麼確定它還是對的",
       "url": "https://ithelp.ithome.com.tw/users/20172401/ironman/9491",
+      "group": "AI Engineering"
+    },
+    {
+      "id": "9597",
+      "title": "30 天 GPU LeetCode 挑戰：從 CUDA 新手到 Kernel Leaderboard",
+      "url": "https://ithelp.ithome.com.tw/users/20183648/ironman/9597",
       "group": "AI Engineering"
     },
     {
@@ -286,6 +292,12 @@
       "group": "AI Engineering"
     },
     {
+      "id": "9615",
+      "title": "地端 AI 建築學",
+      "url": "https://ithelp.ithome.com.tw/users/20181345/ironman/9615",
+      "group": "AI Engineering"
+    },
+    {
       "id": "9374",
       "title": "基於 Multi-Agent 協作之蘇格拉底式程式學習與自動化評測系統",
       "url": "https://ithelp.ithome.com.tw/users/20183876/ironman/9374",
@@ -496,6 +508,12 @@
       "group": "AI Engineering"
     },
     {
+      "id": "9598",
+      "title": "轉生到 AI 世界，帶著兩個 AI 隊友獨自進化",
+      "url": "https://ithelp.ithome.com.tw/users/20178757/ironman/9598",
+      "group": "AI Engineering"
+    },
+    {
       "id": "9267",
       "title": "30 天 AI 自動化實戰：用 n8n、FastAPI 與 Gemini 打造 AI 知識管家",
       "url": "https://ithelp.ithome.com.tw/users/20183341/ironman/9267",
@@ -640,9 +658,21 @@
       "group": "AI 自動化"
     },
     {
+      "id": "9603",
+      "title": "沒有工程師的旅行社，長出節省三個人力，並且讓重複事情都給電腦自動執行的系統",
+      "url": "https://ithelp.ithome.com.tw/users/20184130/ironman/9603",
+      "group": "AI 自動化"
+    },
+    {
       "id": "9494",
       "title": "用 AI Agent 打造你的產品使用手冊產線",
       "url": "https://ithelp.ithome.com.tw/users/20162280/ironman/9494",
+      "group": "AI 自動化"
+    },
+    {
+      "id": "9592",
+      "title": "用 Dify 建構個人專屬 AI Agent 應用",
+      "url": "https://ithelp.ithome.com.tw/users/20178900/ironman/9592",
       "group": "AI 自動化"
     },
     {
@@ -1150,6 +1180,12 @@
       "group": "Claude AI"
     },
     {
+      "id": "9605",
+      "title": "不是叫 AI 寫教科書：大學教師用 Claude 自學心理計量，打造可驗證、可再教的客製化教材",
+      "url": "https://ithelp.ithome.com.tw/users/20183805/ironman/9605",
+      "group": "Claude AI"
+    },
+    {
       "id": "9057",
       "title": "中文系MIS的Claude協作嘗試：我們如何保存自己的思考脈絡？",
       "url": "https://ithelp.ithome.com.tw/users/20180368/ironman/9057",
@@ -1540,6 +1576,12 @@
       "group": "JavaScript"
     },
     {
+      "id": "9606",
+      "title": "重新拿回思考力！一起來用 JavaScript 打造 CLI 好玩遊戲區！",
+      "url": "https://ithelp.ithome.com.tw/users/20182439/ironman/9606",
+      "group": "JavaScript"
+    },
+    {
       "id": "9512",
       "title": "30 天打造我的個人雲端實驗室：用 Docker、Kubernetes、Flyte 和自建服務，重構手機與電腦的日常工作流",
       "url": "https://ithelp.ithome.com.tw/users/20175987/ironman/9512",
@@ -1876,6 +1918,24 @@
       "group": "Security"
     },
     {
+      "id": "9595",
+      "title": "《30 天從零打造資安語言模型：從微調到 Agent 落地》",
+      "url": "https://ithelp.ithome.com.tw/users/20162478/ironman/9595",
+      "group": "Security"
+    },
+    {
+      "id": "9596",
+      "title": "《30 天打造 AI Guardrails》",
+      "url": "https://ithelp.ithome.com.tw/users/20162478/ironman/9596",
+      "group": "Security"
+    },
+    {
+      "id": "9594",
+      "title": "《30 天為金融法務部門打造 LLM 個資防護閘：去識別化、可控還原與紅隊驗證》",
+      "url": "https://ithelp.ithome.com.tw/users/20162478/ironman/9594",
+      "group": "Security"
+    },
+    {
       "id": "9550",
       "title": "《30 天用 Google Cloud Observability 打造 AI Agent 全方位監控》",
       "url": "https://ithelp.ithome.com.tw/users/20162478/ironman/9550",
@@ -1897,6 +1957,12 @@
       "id": "9379",
       "title": "《Nyahello！從零開始的 30 天 malware 學習日誌》",
       "url": "https://ithelp.ithome.com.tw/users/20183878/ironman/9379",
+      "group": "Security"
+    },
+    {
+      "id": "9602",
+      "title": "《再叩一次》—一個中年轉職叩門者的 OSCP 三十夜",
+      "url": "https://ithelp.ithome.com.tw/users/20163650/ironman/9602",
       "group": "Security"
     },
     {
@@ -2035,6 +2101,12 @@
       "id": "9447",
       "title": "時鐘從「知悉」開始：從零打造 PSIRT，三十天走完歐盟 CRA 的通報與 SBOM",
       "url": "https://ithelp.ithome.com.tw/users/20169113/ironman/9447",
+      "group": "Security"
+    },
+    {
+      "id": "9614",
+      "title": "暗網解碼：駭客情報追蹤筆記",
+      "url": "https://ithelp.ithome.com.tw/users/20103647/ironman/9614",
       "group": "Security"
     },
     {
@@ -2434,6 +2506,12 @@
       "group": "Software Development"
     },
     {
+      "id": "9609",
+      "title": "從零打造網頁簡報編輯器",
+      "url": "https://ithelp.ithome.com.tw/users/20182759/ironman/9609",
+      "group": "Software Development"
+    },
+    {
       "id": "9256",
       "title": "從零打造邊緣運算閘道器：Raspberry Pi 與 Linux 底層軟硬整合實戰",
       "url": "https://ithelp.ithome.com.tw/users/20183645/ironman/9256",
@@ -2548,6 +2626,12 @@
       "group": "Software Development"
     },
     {
+      "id": "9599",
+      "title": "系統是怎麼被流量打爆的？30 天實戰 System Design",
+      "url": "https://ithelp.ithome.com.tw/users/20183648/ironman/9599",
+      "group": "Software Development"
+    },
+    {
       "id": "9415",
       "title": "系統設計就像九頭蛇：打造社群網站的 30 天",
       "url": "https://ithelp.ithome.com.tw/users/20183914/ironman/9415",
@@ -2644,6 +2728,12 @@
       "group": "Vibe Coding"
     },
     {
+      "id": "9611",
+      "title": "上岸用AI,看小白如何從無到有的用Vibe Codeing開發遊戲",
+      "url": "https://ithelp.ithome.com.tw/users/20113594/ironman/9611",
+      "group": "Vibe Coding"
+    },
+    {
       "id": "9384",
       "title": "人機協同程式開發實戰：用 AI 輔助開發 Swift 與 Spring Boot，打造屬於自己的程式",
       "url": "https://ithelp.ithome.com.tw/users/20178746/ironman/9384",
@@ -2677,6 +2767,12 @@
       "id": "9314",
       "title": "夢幻甜品師闖工程世界：Vibe Coding vs 專業開發的 0→1 冒險攻略",
       "url": "https://ithelp.ithome.com.tw/users/20183484/ironman/9314",
+      "group": "Vibe Coding"
+    },
+    {
+      "id": "9607",
+      "title": "學生身份如何每天透過Vibe Coding每天做跨領域的創新項目",
+      "url": "https://ithelp.ithome.com.tw/users/20184140/ironman/9607",
       "group": "Vibe Coding"
     },
     {
@@ -2926,6 +3022,12 @@
       "group": "佛心分享-IT 人自學之術"
     },
     {
+      "id": "9593",
+      "title": "群島手記：你要的是答案，還是找答案的方法？",
+      "url": "https://ithelp.ithome.com.tw/users/20107403/ironman/9593",
+      "group": "佛心分享-IT 人自學之術"
+    },
+    {
       "id": "9389",
       "title": "老爺爺練習VIBE CODING",
       "url": "https://ithelp.ithome.com.tw/users/20070969/ironman/9389",
@@ -3022,6 +3124,12 @@
       "group": "佛心分享-SideProject30"
     },
     {
+      "id": "9590",
+      "title": "為你自己蓋一座會複利的知識庫——WikiBrain",
+      "url": "https://ithelp.ithome.com.tw/users/20184129/ironman/9590",
+      "group": "佛心分享-SideProject30"
+    },
+    {
       "id": "9492",
       "title": "營養師想做一個飲食建議產品",
       "url": "https://ithelp.ithome.com.tw/users/20183959/ironman/9492",
@@ -3061,6 +3169,12 @@
       "id": "9469",
       "title": "30天 LeetCode 演算法實戰：Java 與 Python 解法比較",
       "url": "https://ithelp.ithome.com.tw/users/20178669/ironman/9469",
+      "group": "自我挑戰組"
+    },
+    {
+      "id": "9600",
+      "title": "AI Agent 不該有萬能鑰匙：打造可稽核的 MCP 工具權限閘道",
+      "url": "https://ithelp.ithome.com.tw/users/20184105/ironman/9600",
       "group": "自我挑戰組"
     },
     {
@@ -3166,6 +3280,12 @@
       "group": "自我挑戰組"
     },
     {
+      "id": "9601",
+      "title": "《再叩一次》—一個中年叩門者的 OSCP 三十夜",
+      "url": "https://ithelp.ithome.com.tw/users/20163650/ironman/9601",
+      "group": "自我挑戰組"
+    },
+    {
       "id": "9062",
       "title": "一塊板子，兩個腦袋：Arduino UNO Q 30 天實戰",
       "url": "https://ithelp.ithome.com.tw/users/20058745/ironman/9062",
@@ -3181,6 +3301,12 @@
       "id": "9412",
       "title": "一杯咖啡的設計課：30 天 Design Pattern 的自我修煉",
       "url": "https://ithelp.ithome.com.tw/users/20183470/ironman/9412",
+      "group": "自我挑戰組"
+    },
+    {
+      "id": "9610",
+      "title": "上岸用AI,看小白如何從無到有的開發遊戲",
+      "url": "https://ithelp.ithome.com.tw/users/20113594/ironman/9610",
       "group": "自我挑戰組"
     },
     {
@@ -3220,9 +3346,27 @@
       "group": "自我挑戰組"
     },
     {
+      "id": "9608",
+      "title": "學習用Pygame製作小專案",
+      "url": "https://ithelp.ithome.com.tw/users/20184145/ironman/9608",
+      "group": "自我挑戰組"
+    },
+    {
+      "id": "9604",
+      "title": "實戰 Arduino 相容開發板 - 使用 Arduino IDE 2.x",
+      "url": "https://ithelp.ithome.com.tw/users/20124678/ironman/9604",
+      "group": "自我挑戰組"
+    },
+    {
       "id": "9562",
       "title": "帶著 GPT 進入我的遊戲世界：30 天角色繪圖日記",
       "url": "https://ithelp.ithome.com.tw/users/20183947/ironman/9562",
+      "group": "自我挑戰組"
+    },
+    {
+      "id": "9591",
+      "title": "從 Hello World 開始的 30 天 Java 之旅",
+      "url": "https://ithelp.ithome.com.tw/users/20179962/ironman/9591",
       "group": "自我挑戰組"
     },
     {
@@ -3256,6 +3400,12 @@
       "group": "自我挑戰組"
     },
     {
+      "id": "9613",
+      "title": "從資料到圖表，再到決策：30 天資料視覺化思考之旅",
+      "url": "https://ithelp.ithome.com.tw/users/20177964/ironman/9613",
+      "group": "自我挑戰組"
+    },
+    {
       "id": "9229",
       "title": "我想知道AI能幫到什麼忙",
       "url": "https://ithelp.ithome.com.tw/users/20183600/ironman/9229",
@@ -3286,6 +3436,12 @@
       "group": "自我挑戰組"
     },
     {
+      "id": "9589",
+      "title": "旅行社自動化",
+      "url": "https://ithelp.ithome.com.tw/users/20184130/ironman/9589",
+      "group": "自我挑戰組"
+    },
+    {
       "id": "9058",
       "title": "模型真的會推理嗎？30 天從 Base Model 打造可驗證的小型推理模型",
       "url": "https://ithelp.ithome.com.tw/users/20183260/ironman/9058",
@@ -3295,6 +3451,12 @@
       "id": "9296",
       "title": "沒有壞設計，只有剛好戳中你的心機：30天拆解UI裡的心理學筆記",
       "url": "https://ithelp.ithome.com.tw/users/20143250/ironman/9296",
+      "group": "自我挑戰組"
+    },
+    {
+      "id": "9612",
+      "title": "滲透測試新手的 HTB Academy 30天學習日記",
+      "url": "https://ithelp.ithome.com.tw/users/20183931/ironman/9612",
       "group": "自我挑戰組"
     },
     {
