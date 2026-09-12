@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-11T11:53:52.810741+00:00",
-  "count": 588,
+  "updatedAt": "2026-09-12T11:20:51.632864+00:00",
+  "count": 598,
   "errors": [],
   "series": [
     {
@@ -193,6 +193,12 @@
       "id": "9399",
       "title": "RE: 從 4,343 筆職缺到 AI Engineer：MLOps × GenAI Engineering 雙主軸實戰",
       "url": "https://ithelp.ithome.com.tw/users/20121130/ironman/9399",
+      "group": "AI Engineering"
+    },
+    {
+      "id": "9620",
+      "title": "RE: 從 4,343 筆職缺到 AI Engineer：MLOps × GenAI Engineering 雙主軸實戰",
+      "url": "https://ithelp.ithome.com.tw/users/20121130/ironman/9620",
       "group": "AI Engineering"
     },
     {
@@ -424,6 +430,12 @@
       "group": "AI Engineering"
     },
     {
+      "id": "9617",
+      "title": "拒絕通靈測試與 AI 垃圾：SDET 的 30 天自動化防禦工事",
+      "url": "https://ithelp.ithome.com.tw/users/20183902/ironman/9617",
+      "group": "AI Engineering"
+    },
+    {
       "id": "9243",
       "title": "模型之外：30 天搞懂 AI Infrastructure",
       "url": "https://ithelp.ithome.com.tw/users/20168031/ironman/9243",
@@ -583,6 +595,12 @@
       "id": "9078",
       "title": "Data Machi 30 天學習系列：從零開始打造企業 AI 知識工作流",
       "url": "https://ithelp.ithome.com.tw/users/20169646/ironman/9078",
+      "group": "AI 自動化"
+    },
+    {
+      "id": "9622",
+      "title": "E2E 自動化測試",
+      "url": "https://ithelp.ithome.com.tw/users/20178369/ironman/9622",
       "group": "AI 自動化"
     },
     {
@@ -1156,6 +1174,12 @@
       "group": "Claude AI"
     },
     {
+      "id": "9624",
+      "title": "Mobile 工程的新常態：單平台領域知識，扛雙平台責任 —— 在 8 歲原生 App 上實踐 Agentic SDD Workflow，值得嗎？",
+      "url": "https://ithelp.ithome.com.tw/users/20184183/ironman/9624",
+      "group": "Claude AI"
+    },
+    {
       "id": "9177",
       "title": "一個人的 AI 團隊：Claude Code 當組長，帶四家引擎做教學工作的實測與踩坑",
       "url": "https://ithelp.ithome.com.tw/users/20183504/ironman/9177",
@@ -1255,6 +1279,12 @@
       "id": "9438",
       "title": "把 Claude 從聊天框請進工程團隊：30 天培訓一個專業員工",
       "url": "https://ithelp.ithome.com.tw/users/20183942/ironman/9438",
+      "group": "Claude AI"
+    },
+    {
+      "id": "9619",
+      "title": "把 Claude 練成專家：30 天打造可驗證的 Agent Skills",
+      "url": "https://ithelp.ithome.com.tw/users/20184162/ironman/9619",
       "group": "Claude AI"
     },
     {
@@ -1681,6 +1711,12 @@
       "id": "9449",
       "title": "Lovable：地球上最強的 AI 生成全端網站 Agentic 開發實戰",
       "url": "https://ithelp.ithome.com.tw/users/20046160/ironman/9449",
+      "group": "Modern Web"
+    },
+    {
+      "id": "9618",
+      "title": "Rive 的一些進階主題",
+      "url": "https://ithelp.ithome.com.tw/users/20184163/ironman/9618",
       "group": "Modern Web"
     },
     {
@@ -2440,6 +2476,12 @@
       "group": "Software Development"
     },
     {
+      "id": "9616",
+      "title": "大廠觀落陰：中年工程師的產線鬼故事與生存防身術",
+      "url": "https://ithelp.ithome.com.tw/users/20183902/ironman/9616",
+      "group": "Software Development"
+    },
+    {
       "id": "9363",
       "title": "學校沒教的後端生存指南：30 天打造非同步 S3 微服務，部署 K8s 實現 HA 架構",
       "url": "https://ithelp.ithome.com.tw/users/20183864/ironman/9363",
@@ -3136,6 +3178,12 @@
       "group": "佛心分享-SideProject30"
     },
     {
+      "id": "9625",
+      "title": "看得到的演算法：用 Vue 3 打造演算法互動視覺化平台",
+      "url": "https://ithelp.ithome.com.tw/users/20184088/ironman/9625",
+      "group": "佛心分享-SideProject30"
+    },
+    {
       "id": "9271",
       "title": "30 天和 AI 同事一起工作：用 Codex 整理、創作、分析與自動化的實戰筆記",
       "url": "https://ithelp.ithome.com.tw/users/20154886/ironman/9271",
@@ -3163,6 +3211,12 @@
       "id": "9552",
       "title": "30 天養大一個開源專案：baodao-skill 從零開始",
       "url": "https://ithelp.ithome.com.tw/users/20184082/ironman/9552",
+      "group": "自我挑戰組"
+    },
+    {
+      "id": "9621",
+      "title": "30 天，挑戰我的 Web 前端力",
+      "url": "https://ithelp.ithome.com.tw/users/20178938/ironman/9621",
       "group": "自我挑戰組"
     },
     {
@@ -3241,6 +3295,12 @@
       "id": "9096",
       "title": "Lovable: 地球上最強的 AI 生成全端網站 Agentic 開發實戰",
       "url": "https://ithelp.ithome.com.tw/users/20046160/ironman/9096",
+      "group": "自我挑戰組"
+    },
+    {
+      "id": "9623",
+      "title": "Playwright 練功房：從零開始的 30 天 E2E 測試教學筆記",
+      "url": "https://ithelp.ithome.com.tw/users/20184177/ironman/9623",
       "group": "自我挑戰組"
     },
     {
